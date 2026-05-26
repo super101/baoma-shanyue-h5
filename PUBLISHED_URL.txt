@@ -1,0 +1,7 @@
+宝妈闪约 H5 微信可打开链接：
+https://super101.github.io/baoma-shanyue-h5/
+
+微信使用方式：
+1. 复制上面的链接发到微信聊天，点击即可打开。
+2. 或使用 artifacts/baoma-shanyue-wechat-qrcode.png 让微信扫码打开。
+3. 页面内点击“分享”，按提示点击微信右上角 ... 转发好友/朋友圈。

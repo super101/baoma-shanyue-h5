@@ -123,3 +123,11 @@ baoma-shanyue-h5/
 - 当前预约、支付、客服、订单等仍是 Demo 模拟流程。
 - 微信自定义分享必须有公众号、安全域名和服务端签名接口。
 - 本地 `http://localhost` 无法完成真实微信 JS-SDK 分享签名验证，必须用线上 HTTPS 域名测试。
+
+## 已发布线上地址
+
+```text
+https://super101.github.io/baoma-shanyue-h5/
+```
+
+微信打开方式：复制上方链接发送到微信聊天，或使用本地生成的二维码 `artifacts/baoma-shanyue-wechat-qrcode.png` 扫码打开。
